@@ -1,0 +1,9 @@
+.header{
+font-size: 30px;
+  display: flex;
+  color: aqua;
+  background-color: crimson;
+  &__title{
+    color: darkorange;
+  }
+}
